@@ -1,0 +1,1 @@
+echo "" | festival --tts
